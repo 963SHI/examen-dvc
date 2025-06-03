@@ -2,7 +2,7 @@
 Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
 
 ```bash       
-├── examen_dvc          
+├── exam_dvc_SHI         
 │   ├── data       
 │   │   ├── processed      
 │   │   └── raw       
@@ -11,7 +11,7 @@ Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la s
 │   │   ├── data      
 │   │   └── models        
 │   ├── src       
-│   └── README.md.py       
+│   └── README.md
 ```
 N'hésitez pas à rajouter les dossiers ou les fichiers qui vous semblent pertinents.
 
